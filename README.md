@@ -28,7 +28,7 @@ You can download the configuration files from 4shared:
    - LDAP server settings (IP, credentials, group filters)
    - Interface names and IP addresses
    - IPsec peer settings and phase1/phase2 configs (IPsec is applied to the 10.10.10.0/24 network on the first site, and to the 10.0.1.0/24 network on the second site )
-   - SD-WAN member interfaces and rules( on port 1 and 2 , port3 it's lan 168.191.1.0/24 and condition on patience and applied security profile )
+   - SD-WAN member interfaces and rules( on port 1 and 2 , port3 it's lan 168.191.1.0/24 and condition on latency and applied security profile )
 3. Apply the appropriate security profiles to your firewall policies.
 
 ## License
