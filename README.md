@@ -3,7 +3,6 @@
 This project provides a FortiGate configuration setup that includes:
 
 - **LDAP Integration**: Remote users and groups are fetched from an LDAP server for centralized authentication and role-based access.
-- **LDP (Label Distribution Protocol)**: For MPLS-related dynamic label distribution.
 - **SW-WAN (Software-Defined WAN)**: Intelligent WAN path control and link failover.
 - **IPsec VPN**: Secure site-to-site or remote access VPN tunnels.
 - **Security Profiles**: Deep inspection using Antivirus, Web Filtering, Application Control, and more.
