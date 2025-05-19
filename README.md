@@ -23,7 +23,7 @@ You can download the configuration files from 4shared:
 
 ## Usage
 
-1. Import the configuration into your FortiGate device via CLI or GUI.
+1. Import the configuration into your FortiGate device via CLI or GUI(all fortie username:admin).
 2. Ensure you update the following:
    - LDAP server settings (IP, credentials, group filters)
    - Interface names and IP addresses
