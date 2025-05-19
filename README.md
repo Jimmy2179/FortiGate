@@ -1,13 +1,19 @@
-# FortiGate Configuration Project
+# FortiGate Configuration with Remote Users and Advanced Features
 
-This project contains a FortiGate configuration that includes key networking and security components:
+This project provides a FortiGate configuration setup that includes:
 
-- **LDP (Label Distribution Protocol)**
-- **SW-WAN (Software-Defined WAN)**
-- **IPsec VPN**
-- **Security Profiles** (such as antivirus, web filtering, and application control)
+- **LDAP Integration**: Remote users and groups are fetched from an LDAP server for centralized authentication and role-based access.
+- **LDP (Label Distribution Protocol)**: For MPLS-related dynamic label distribution.
+- **SW-WAN (Software-Defined WAN)**: Intelligent WAN path control and link failover.
+- **IPsec VPN**: Secure site-to-site or remote access VPN tunnels.
+- **Security Profiles**: Deep inspection using Antivirus, Web Filtering, Application Control, and more.
 
-The configuration is designed for enterprise environments that require secure and scalable network connectivity.
+## Key Benefits
+
+- Centralized **user authentication** via LDAP
+- Enhanced **network reliability** with SD-WAN
+- **Secure communication** using IPsec
+- **Granular traffic control** with advanced security profiles
 
 ## Download
 
@@ -17,9 +23,14 @@ You can download the configuration files from 4shared:
 
 ## Usage
 
-Import the configuration into your FortiGate device via the web GUI or CLI.  
-Make sure to review and adjust interface names, IP addresses, and policy settings according to your environment before applying.
+1. Import the configuration into your FortiGate device via CLI or GUI.
+2. Ensure you update the following:
+   - LDAP server settings (IP, credentials, group filters)
+   - Interface names and IP addresses
+   - IPsec peer settings and phase1/phase2 configs
+   - SD-WAN member interfaces and rules
+3. Apply the appropriate security profiles to your firewall policies.
 
 ## License
 
-This project is shared for educational and reference purposes.
+This project is provided for educational and reference purposes.
