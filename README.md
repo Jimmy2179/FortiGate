@@ -19,7 +19,7 @@ This project provides a FortiGate configuration setup that includes:
 
 You can download the configuration files from 4shared:
 
-🔗 [Click here to download from 4shared](https://www.4shared.com/folder/pRZYrwfV/_online.html)
+🔗 [Click here to download from 4shared--all fortie username:admin /password:1234](https://www.4shared.com/folder/pRZYrwfV/_online.html)
 
 ## Usage
 
