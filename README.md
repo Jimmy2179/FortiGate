@@ -6,6 +6,8 @@ This project provides a FortiGate configuration setup that includes:
 - **SW-WAN (Software-Defined WAN)**: Intelligent WAN path control and link failover.
 - **IPsec VPN**: Secure site-to-site or remote access VPN tunnels.
 - **Security Profiles**: Deep inspection using Antivirus, Web Filtering, Application Control, and more.
+- ## Network Topology![Network Topology](./network-topology.png)
+
 
 ## Key Benefits
 
