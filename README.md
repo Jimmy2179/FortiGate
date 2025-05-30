@@ -12,29 +12,32 @@ This project provides a FortiGate configuration setup that includes:
 
 ## policy 
 
-![Policy](./network-topology.png)
+![Policy](./Policy.png)
 
 ## IPSEC 
 
-![IPSEC](./network-topology.png)
-## LADP 
+![IPSEC](./IPSEC.png)
+## LADP1
 
-![LDAP](./network-topology.png)
+![LDAP](./LADP1.png)
+## LADP2
+
+![LDAP](./LADP2.png)
 
 ## SD-WAN
 
-![SD-WAN}(./network-topology.png)
+![SD-WAN}(./SD-WAN.png)
 ## VLANS 
 
-![VLANS](./network-topology.png)
+![VLANS](./VLANS.png)
 
 ## Security Profile
 
 
-![Security Profile](./network-topology.png)
+![Security Profile](./Security Profile.png)
 ## Fortimanager
 
-![Fortimanager](./network-topology.png)
+![Fortimanager](./MANGER.png)
 
 ## Key Benefits
 
