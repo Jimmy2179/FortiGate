@@ -6,6 +6,9 @@ This project provides a FortiGate configuration setup that includes:
 - **SW-WAN (Software-Defined WAN)**: Intelligent WAN path control and link failover.
 - **IPsec VPN**: Secure site-to-site or remote access VPN tunnels.
 - **Security Profiles**: Deep inspection using Antivirus, Web Filtering, Application Control, and more.
+
+## The entire project 
+[Click here to vist the drive (and see the poserpoint) }(https://drive.google.com/drive/folders/1XNdkcMgr3KVCY9Od-WBLD-bDW6bzTkfp?usp=drive_link)
 ## Network Topology
 
 ![Network Topology](./network-topology.png)
@@ -26,7 +29,7 @@ This project provides a FortiGate configuration setup that includes:
 
 ## SD-WAN
 
-![SD-WAN}(./SD-WAN.png)
+![SD-WAN](./SD-WAN.png)
 ## VLANS 
 
 ![VLANS](./VLANS.png)
@@ -34,13 +37,12 @@ This project provides a FortiGate configuration setup that includes:
 ## Security Profile
 
 
-![Security Profile](./Security Profile.png)
+![Security Profile](./SecurityProfile.png)
 ## Fortimanager
 
 ![Fortimanager](./MANGER.png)
 
-## The entire project 
-[Click here to vist the drive (and see the poserpoint) }(https://drive.google.com/drive/folders/1XNdkcMgr3KVCY9Od-WBLD-bDW6bzTkfp?usp=drive_link)
+
 
 ## Key Benefits
 
