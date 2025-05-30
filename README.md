@@ -37,7 +37,7 @@ This project provides a FortiGate configuration setup that includes:
 ## Security Profile
 
 
-![Security Profile](./SecurityProfile.png)
+![Security Profile](./securityprofile.png)
 ## Fortimanager
 
 ![Fortimanager](./MANGER.png)
